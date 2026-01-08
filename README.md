@@ -4,14 +4,14 @@ A Python-based toolkit implementing fundamental matrix operations using numerica
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project provides a set of utilities for performing core matrix computations commonly used in linear algebra and numerical methods.  
 The toolkit emphasizes **manual algorithmic implementation**, including **Gaussian elimination**, to strengthen conceptual understanding of matrix operations.
 
 ---
 
-## ⚙️ Features
+##  Features
 
 - Determinant computation  
 - Matrix inverse calculation  
@@ -22,7 +22,7 @@ The toolkit emphasizes **manual algorithmic implementation**, including **Gaussi
 
 ---
 
-## 🧠 Methodology
+##  Methodology
 
 - Implemented row operations and elimination steps explicitly
 - Avoided high-level solver shortcuts to preserve numerical insight
@@ -30,7 +30,7 @@ The toolkit emphasizes **manual algorithmic implementation**, including **Gaussi
 
 ---
 
-## 🧪 Example Usage
+##  Example Usage
 
 ```python
 A = [[2, 1, -1],
